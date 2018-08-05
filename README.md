@@ -5,6 +5,7 @@ installation
 
 yum -y update
 
+yum -y install wget
 
 wget https://raw.githubusercontent.com/PakCyberpyrates/DA153/master/setup.sh
 
